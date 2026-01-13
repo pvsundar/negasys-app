@@ -1,0 +1,12 @@
+# NEGASYS v5.0 Cloud Deployment Dependencies
+# For Streamlit Community Cloud
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Streamlit GUI
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.0.0
