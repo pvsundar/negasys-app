@@ -1,4 +1,6 @@
 # NEGASYS v5.0: Household Product Line Optimizer
+## P.V. (Sundar) Balakrishnan
+#### School of Business, University of Washington Bothell
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://negasys-app.streamlit.app)
 
